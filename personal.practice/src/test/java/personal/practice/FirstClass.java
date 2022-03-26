@@ -29,8 +29,13 @@ public void demo6() {
 public void demo7() {
 	System.out.println("demo7");
 }
+<<<<<<< HEAD
 public void demo19() {
 	System.out.println("demo19");
+=======
+public void demo8() {
+	System.out.println("demo8");
+>>>>>>> branch 'master' of https://github.com/satish-chandra1/practice_again.git
 }
 }
 
