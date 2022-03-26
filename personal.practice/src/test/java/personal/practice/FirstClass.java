@@ -35,5 +35,8 @@ public void demo19() {
 public void demo8() {
 	System.out.println("demo8");
 }
+public void create() {
+	System.out.println("anand");
+}
 }
 
