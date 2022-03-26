@@ -22,5 +22,12 @@ public void demo4() {
 public void demo5() {
 	System.out.println("demo5");
 }
+
+public void demo6() {
+	System.out.println("demo6");
+}
+public void demo7() {
+	System.out.println("demo7");
+}
 }
 
