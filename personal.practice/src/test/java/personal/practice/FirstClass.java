@@ -14,5 +14,13 @@ public void demo1() {
 }
 public void demo3() {
 	System.out.println("demo3");
+
+}
+public void demo4() {
+		System.out.println("demo4");
+	}
+public void demo5() {
+	System.out.println("demo5");
 }
 }
+
