@@ -29,5 +29,8 @@ public void demo6() {
 public void demo7() {
 	System.out.println("demo7");
 }
+public void demo8() {
+	System.out.println("demo8");
+}
 }
 
